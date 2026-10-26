@@ -96,7 +96,7 @@ function App() {
       <main id="main">
         <section id="top" className="hero wrap">
           <p className="eyebrow">Replit Cloud Agents</p>
-          <h1>Bring ideas into your codebase. <span>Engineers decide what ships.</span></h1>
+          <h1>Turn ideas into improvements. <span>Engineers decide what ships.</span></h1>
           <p className="lede">
             Replit Cloud Agents turn natural-language requests into reviewed pull and merge requests on your existing GitHub or GitLab repositories, with evidence attached and your engineers in control.
           </p>
